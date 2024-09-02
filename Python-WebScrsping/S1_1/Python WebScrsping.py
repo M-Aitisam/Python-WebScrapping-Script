@@ -2,7 +2,7 @@ import os
 import re
 import requests
 
-# Define menu categories with their URLs
+# Define the  menu categories with their all URLs
 menu_urls = {
     "Breakfast": "https://mcdonalds.com.pk/full-menu/breakfast/",
     "Beef": "https://mcdonalds.com.pk/full-menu/beef/",
